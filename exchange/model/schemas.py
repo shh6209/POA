@@ -29,7 +29,7 @@ EXCHANGE_LITERAL = Literal[
 ]
 
 QUOTE_LITERAL = Literal[
-    "USDT", "USDT.P", "USDTPERP", "BUSD", "BUSD.P", "BUSDPERP", "KRW", "USD", "USD.P"
+    "USDT", "USDT.P", "USDTPERP", "BUSD", "BUSD.P", "BUSDPERP", "KRW", "USD", "USD.P", "USDC", USDC.P", "USDCPERP"
 ]
 
 SIDE_LITERAL = Literal[
